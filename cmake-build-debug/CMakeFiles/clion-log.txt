@@ -1,0 +1,8 @@
+/Applications/CLion.app/Contents/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/Psy/code/nyit/semester3/cs731-compilers/tiny
+-- Configuring done
+CMake Error at CMakeLists.txt:7 (add_executable):
+  C_STANDARD is set to invalid value '90s'
+
+
+-- Generating done
+-- Build files have been written to: /Users/Psy/code/nyit/semester3/cs731-compilers/tiny/cmake-build-debug

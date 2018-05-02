@@ -1,0 +1,3 @@
+/Users/Psy/code/nyit/semester3/cs731-compilers/tiny/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/Psy/code/nyit/semester3/cs731-compilers/tiny/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/Psy/code/nyit/semester3/cs731-compilers/tiny/cmake-build-debug/CMakeFiles/tiny.dir
